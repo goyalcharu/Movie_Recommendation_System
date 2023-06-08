@@ -1,5 +1,13 @@
 # Movie_Recommendation_System
 
+## INTRODUCTION TO THE DATASET
+
+We chose movie data set for data analysis. This data set contains information about 1000 movies having the highest ratings collected from IMDb (Internet Movie Database), including user ratings, revenue, genre, timeline and year of release. We would like to find some interesting patterns in the dataset.
+
+## INTRODUCTION TO THE PROBLEM
+
+The dataset may contain null values, special characters and objects in an int type column. Talking about our data specifically, it contains null values as well as special characters. ‘year’, ‘votes’, and ‘gross’ are factors or their datatype is object i.e. they contain alphabets or special characters. 
+
 ## AIM:
 - **Aim-1:** To make a recommendation system which suggests movies of the genre we input and print them in descending order on the basis of their ratings.
 * **Aim-2:** To input a movie name and display its timeline, year of release, genre and IMDB rating.
