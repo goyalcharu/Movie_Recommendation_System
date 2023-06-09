@@ -19,7 +19,7 @@ The primary goal of the project is to go through the dataset and the general dat
 3. Exploratory data analysis
 4. Conclusions
 
-![Proposed Workflow](https://ibb.co/bv8Hfsd)
+![Proposed Workflow](https://www.linkpicture.com/q/Workflow.png)
 
 ## RESULT :
 With the completion of this mini project we have learnt how to deal with dataset (csv file). To summarize, first we import the vital Python libraries, we read the csv file, we clean the data and we explore the data (using graphs as well). This project helped us analyse the data and create visualizations that helped us answer a few curiosities that we had about movie dataset.
